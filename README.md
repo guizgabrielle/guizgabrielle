@@ -1,5 +1,5 @@
 ### Opa ! Seja bem-vindo 👋
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guizgabrielle&show_icons=true&theme=dracula)
+
 
 ## Tecnologias que uso
 
